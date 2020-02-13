@@ -7,3 +7,5 @@ Viking went there
 second commit's text
 
 third change
+
+Fourth change, in github online editor
