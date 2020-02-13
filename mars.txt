@@ -3,3 +3,5 @@ cold and dry
 no atm
 
 Viking went there
+
+second commit's text
